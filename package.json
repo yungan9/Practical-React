@@ -1,0 +1,25 @@
+{
+  "name": "practical-react",
+  "version": "1.0.0",
+  "description": "[Inflearn - 실전 리액트 프로그래밍]",
+  "main": "react-dom.development.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yungan9/Practical-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yungan9/Practical-React/issues"
+  },
+  "homepage": "https://github.com/yungan9/Practical-React#readme",
+  "dependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-react": "^7.23.3"
+  }
+}
